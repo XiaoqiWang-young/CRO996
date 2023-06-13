@@ -1,0 +1,16 @@
+Package: CRO996
+Type: Package
+Title: The result of HC GM
+Version: 0.1.0
+Author: Mr.Wang
+Maintainer: Boss Wang <W16638114434@163.com>
+Description: The result of HC GM
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 7.2.3
+Imports: readxl (>= 1.0), stringr (>= 1.0), tidyfst (>= 1.0), tidyverse
+        (>= 1.0), rJava (>= 1.0), xlsx (>= 0.5)
+Built: R 4.3.0; ; 2023-06-13 07:24:46 UTC; windows
